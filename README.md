@@ -1,0 +1,2 @@
+# mygenerator
+My generator
